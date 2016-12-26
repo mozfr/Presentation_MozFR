@@ -2,7 +2,7 @@
 Ce modèle est basé sur [reveal.js](https://github.com/hakimel/reveal.js).
 ##Comment ça fonctionne ?
 
-Cet outil permet de réaliser des présentations qui peuvent être lancées depuis un navigateur. C'est du HTML, JavaScript, CSS… Bref, c'est du Web (voir ce que ça donne sur [cette page](https://github.com/SphinxKnight/Presentation_MozFR/). Pour commencer, on aura simplement besoin de savoir écrire [du Markdown](https://fr.wikipedia.org/wiki/Markdown) et d'utiliser un éditeur de texte.
+Cet outil permet de réaliser des présentations qui peuvent être lancées depuis un navigateur. C'est du HTML, JavaScript, CSS… Bref, c'est du Web (voir ce que ça donne sur [cette page](https://mozfr.github.io/Presentation_MozFR/). Pour commencer, on aura simplement besoin de savoir écrire [du Markdown](https://fr.wikipedia.org/wiki/Markdown) et d'utiliser un éditeur de texte.
 
 ##Comment réaliser ma présentation ?
 
