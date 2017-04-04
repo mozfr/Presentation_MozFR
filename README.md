@@ -1,10 +1,11 @@
 # Modèle de présentation pour les évènements de la communauté Mozilla francophone (MozFr)
 Ce modèle est basé sur [reveal.js](https://github.com/hakimel/reveal.js).
-##Comment ça fonctionne ?
+
+## Comment ça fonctionne ?
 
 Cet outil permet de réaliser des présentations qui peuvent être lancées depuis un navigateur. C'est du HTML, JavaScript, CSS… Bref, c'est du Web (voir ce que ça donne sur [cette page](https://mozfr.github.io/Presentation_MozFR/). Pour commencer, on aura simplement besoin de savoir écrire [du Markdown](https://fr.wikipedia.org/wiki/Markdown) et d'utiliser un éditeur de texte.
 
-##Comment réaliser ma présentation ?
+## Comment réaliser ma présentation ?
 
 * Vous pouvez *forker* ce dépôt sur votre profil GitHub ou le récupérer sous forme d'un fichier zip en cliquant sur *Clone or download*
 * Une fois les fichiers récupérés, le seul fichier qu'on aura besoin de modifier est le fichier `index.html`
